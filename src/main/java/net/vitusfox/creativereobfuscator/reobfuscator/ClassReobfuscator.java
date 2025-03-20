@@ -1,17 +1,10 @@
 package net.vitusfox.creativereobfuscator.reobfuscator;
 
-import net.vitusfox.creativereobfuscator.Pair;
 import net.vitusfox.creativereobfuscator.mapping.ClassMapping;
-import net.vitusfox.creativereobfuscator.mapping.FieldMapping;
 import net.vitusfox.creativereobfuscator.mapping.Mapping;
-import net.vitusfox.creativereobfuscator.mapping.MethodMapping;
 import org.objectweb.asm.ClassReader;
 import org.objectweb.asm.ClassWriter;
 import org.objectweb.asm.tree.*;
-
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
 
 public class ClassReobfuscator {
 

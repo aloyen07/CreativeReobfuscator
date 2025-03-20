@@ -1,6 +1,6 @@
 # CreativeReobfuscator v1.0 alpha
 
-A tool for reobfuscating Minecraft classes using MCP and Mojang mappings.
+A tool for reobfuscating Minecraft classes using MCP and Mojang mappings for Forge.
 This tool by default contains 1.16.5 mappings.
 
 Tool assembled specially for Minecraft Server [VitusFox](https://vitusfox.net)
